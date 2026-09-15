@@ -32,7 +32,9 @@ title: 併願フロー サポート
 
 ## お問い合わせ
 
-問い合わせ窓口は準備中です。整い次第このページに掲載します。
+メール: [mahiguch2+jukenflow@gmail.com](mailto:mahiguch2+jukenflow@gmail.com)
+
+学校データの誤りのご指摘も歓迎します。学校名・入試回・該当項目と、根拠となる募集要項のページをお知らせください。
 
 - [プライバシーポリシー](privacy)
 - [利用規約](terms)
